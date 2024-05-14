@@ -6,3 +6,7 @@
 for x in range(1,10):
   print(x)
 ```
+
+- [x] This is the first item in the list
+- [ ] This is the second item in the list
+- [ ] This is the third item in the list
